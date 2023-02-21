@@ -7,3 +7,4 @@ cd /var/www/html
 echo "<html><h1>This is my First Website</h1></html>"  >  index.html
 aws s3 mb s3://YOURBUCKETNAMEHERE
 aws s3 cp index.html s3://YOURBUCKETNAMEHERE
+sanjivani
